@@ -27,7 +27,7 @@ public class BufferedRAndWDemo {
 		while((line = br.readLine())!=null){
 			System.out.println(line);
 //			bw.write(line);
-//			//单独写出换行
+//			//单独写出换行 无敌
 //			bw.newLine();
 //			bw.flush();
 			pw.println(line);
